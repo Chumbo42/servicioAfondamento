@@ -1,0 +1,10 @@
+C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\obj\Debug\ServicioHora.csproj.AssemblyReference.cache
+C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\obj\Debug\ServicioHora.csproj.CoreCompileInputs.cache
+C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\obj\Debug\ServicioHora.ServicioHora.resources
+C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\obj\Debug\ServicioHora.csproj.GenerateResource.cache
+C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\bin\Debug\ServicioHora.exe.config
+C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\bin\Debug\ServicioHora.exe
+C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\bin\Debug\ServicioHora.pdb
+C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\obj\Debug\ServicioHora.exe
+C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\obj\Debug\ServicioHora.pdb
+C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\obj\Debug\ServicioHora.exe.config
