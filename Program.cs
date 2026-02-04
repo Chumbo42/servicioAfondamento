@@ -17,7 +17,7 @@ namespace ServicioHora
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new ServicioHora()
+                new ServicioHoraFalso()
             };
             ServiceBase.Run(ServicesToRun);
         }

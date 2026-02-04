@@ -14,10 +14,10 @@ using System.Threading.Tasks;
 
 namespace ServicioHora
 {
-    public partial class ServicioHora : ServiceBase
+    public partial class ServicioHoraFalso : ServiceBase
     {
         private Thread servicio;
-        public ServicioHora()
+        public ServicioHoraFalso()
         {
             InitializeComponent();
         }
