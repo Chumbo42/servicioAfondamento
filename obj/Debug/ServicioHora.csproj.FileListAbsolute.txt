@@ -7,4 +7,4 @@ C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\bin\Debug\Servicio
 C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\obj\Debug\ServicioHora.exe
 C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\obj\Debug\ServicioHora.pdb
 C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\obj\Debug\ServicioHora.exe.config
-C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\obj\Debug\ServicioHora.ServicioHoraFalso.resources
+C:\Users\amigvaz\Desktop\Afodamento\ServicioHora\ServicioHora\obj\Debug\ServicioHora.ServicioHora.resources

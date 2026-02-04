@@ -1,6 +1,6 @@
 ﻿namespace ServicioHora
 {
-    partial class ServicioHoraFalso
+    partial class ServicioHora
     {
         /// <summary> 
         /// Variable del diseñador necesaria.
@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             // 
-            // ServicioHoraFalso
+            // ServicioHora
             // 
             this.AutoLog = false;
-            this.ServiceName = "ServicioHoraFalso";
+            this.ServiceName = "ServicioHora";
 
         }
 
